@@ -1,11 +1,11 @@
 
-## Deployment Website
-![URL][https://clone-of-google-maps.vercel.app/]
+# Deployment Website
+ ## URL: https://clone-of-google-maps.vercel.app/
 # Bengaluru Route Finder
 
 A modern web application for finding routes in Bengaluru using React and Leaflet. The application allows users to find paths between two points either by clicking on the map or entering coordinates manually.
 
-![Application Screenshot](https://drive.google.com/file/d/1W9wOn6O-eC_V2kO1eHbUreqgHtI_uuay/view?usp=sharing)
+# [Application Screenshot]:https://drive.google.com/file/d/1W9wOn6O-eC_V2kO1eHbUreqgHtI_uuay/view?usp=sharing
 
 ## Features
 
@@ -90,10 +90,6 @@ src/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
