@@ -2,7 +2,7 @@
 
 A modern web application for finding routes in Bengaluru using React and Leaflet. The application allows users to find paths between two points either by clicking on the map or entering coordinates manually.
 
-![Application Screenshot](https://images.unsplash.com/photo-1582216601714-eed298d4bfb6?auto=format&fit=crop&q=80&w=2000)
+![Application Screenshot]([https://images.unsplash.com/photo-1582216601714-eed298d4bfb6?auto=format&fit=crop&q=80&w=2000](https://drive.google.com/file/d/1W9wOn6O-eC_V2kO1eHbUreqgHtI_uuay/view?usp=sharing))
 
 ## Features
 
