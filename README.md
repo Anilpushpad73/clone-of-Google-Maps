@@ -1,6 +1,6 @@
 
 # Deployment Website
- ## URL: https://clone-of-google-maps.vercel.app/
+ ## URL: https://clone-of-google-maps-v1ot.vercel.app/
 # Bengaluru Route Finder
 
 A modern web application for finding routes in Bengaluru using React and Leaflet. The application allows users to find paths between two points either by clicking on the map or entering coordinates manually.
@@ -35,6 +35,8 @@ src/
 │   ├── Sidebar.tsx     # Sidebar container
 │   ├── CoordinatesInput.tsx  # Coordinate input form
 │   └── SearchHistory.tsx     # Search history display
+|   |── RouteLayer.tsx  # route visulization
+│   └── routeservice.ts   # fetch the route through OSRM API
 ├── store/              # State management
 │   └── useMapStore.ts  # Zustand store
 ├── types/              # TypeScript types
