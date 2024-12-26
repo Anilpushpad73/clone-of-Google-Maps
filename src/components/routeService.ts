@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Coordinates, OSRMRouteResponse } from '../types/map';
 
-const OSRM_API = "http://router.project-osrm.org/route/v1/driving";
+const OSRM_API = "https://router.project-osrm.org/route/v1/driving";
 
 // Function to fetch multiple routes from OSRM API
 export async function fetchMultipleRoutes(
