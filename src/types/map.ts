@@ -11,9 +11,9 @@ export interface Route {
 }
 
 export interface OSRMRouteResponse {
-  routes: {
+  routes: Array<{
     geometry: {
       coordinates: [number, number][]; // Array of longitude-latitude pairs
     };
-  }[];
+  }>;
 }
